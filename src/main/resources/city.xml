@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<China>
+
+
+
+    <country id="120101" name="济南" weatherCode="101120101"/>
+    <country id="120201" name="青岛" weatherCode="101120201"/>
+    <country id="120301" name="淄博" weatherCode="101120301"/>
+    <country id="120401" name="德州" weatherCode="101120401"/>
+    <country id="120501" name="烟台" weatherCode="101120501"/>
+    <country id="120601" name="潍坊" weatherCode="101120601"/>
+    <country id="120701" name="济宁" weatherCode="101120701"/>
+    <country id="120801" name="泰安" weatherCode="101120801"/>
+    <country id="120901" name="临沂" weatherCode="101120901"/>
+    <country id="121001" name="菏泽" weatherCode="101121001"/>
+    <country id="121101" name="滨州" weatherCode="101121101"/>
+    <country id="121201" name="东营" weatherCode="101121201"/>
+    <country id="121301" name="威海" weatherCode="101121301"/>
+    <country id="121401" name="枣庄" weatherCode="101121401"/>
+    <country id="121501" name="日照" weatherCode="101121501"/>
+    <country id="121601" name="莱芜" weatherCode="101121601"/>
+    <country id="121701" name="聊城" weatherCode="101121701"/>
+
+
+
+
+
+</China>
